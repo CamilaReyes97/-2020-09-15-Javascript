@@ -1,0 +1,22 @@
+
+   
+  /*  llaves y valores */
+  
+  
+  [
+   {
+        "nombre": "matias",
+        "tipo": "gato"
+    },
+
+    {
+        "nombre": "kandy",
+        "tipo": "perro"
+    },
+
+    {
+        "nombre": "sami",
+        "tipo": "gato"
+    }
+
+] 
